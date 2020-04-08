@@ -8,16 +8,19 @@
 ### 三种工作模式
 
 1. masscan
+   
    结果：IP:PORTS
 
    例如：192.168.31.1 [80,8192]
 
 1. nmap
+   
    结果：IP:Status
 
    例如：192.168.31.1[[22, open, ssh, Dropbear sshd 2018.76 (protocol 2.0)], [53, open, domain, dnsmasq 2.80], [80, open, http, Asus RT-AC54U WAP http config]]
 
 1. masscan->nmap，masscan扫完用nmap扫
+   
    结果同2，没有mass结果，此时，mass扫完后，会得到开放的端口，一次开一个nmap扫一个端口...会有点慢
 
 ### 使用步骤
