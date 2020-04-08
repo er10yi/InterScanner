@@ -1,6 +1,6 @@
 ### InterScanner
 
-基于nmap和msscan的小工具，需要提前安装masscan和nmap ^-^
+基于nmap和masscan的小工具，需要提前安装masscan和nmap ^-^
 三种工作模式，详细见下文，主要格式化结果输出，并增加多线程
 
 运行环境：jre 1.8
