@@ -40,6 +40,7 @@
 
 ### 效果
 ![1586354607417](https://github.com/er10yi/InterScanner/blob/master/1586354607417.png)
+![1586354607417](https://github.com/er10yi/InterScanner/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
 
 ### 注意事项
 
