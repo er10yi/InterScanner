@@ -39,8 +39,8 @@
   java -cp InterScanner.jar com.eveino.test.TestJar mass2Nmap config/mass2NmapConfig.properties > result/mass2Nmap.result
 
 ### 效果
-![1586354607417](https://github.com/er10yi/InterScanner/blob/master/1586354607417.png)
-![效果图2](https://github.com/er10yi/InterScanner/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
+![1586354607417](./1586354607417.png)
+![效果图2](./%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
 
 ### 注意事项
 
